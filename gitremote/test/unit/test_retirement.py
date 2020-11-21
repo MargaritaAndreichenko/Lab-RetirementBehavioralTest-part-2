@@ -1,5 +1,5 @@
 import pytest
-import retirement as retirement
+
 
 
 def test_birth_year_earlier_1900():
